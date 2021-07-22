@@ -9,6 +9,8 @@
 
 📃 My document: https://doc.hassanwong.top
 
-📫 How to contact me: hassanwong@qq.com
+💽 My music box: https://mb.hassanwong.top
 
-⏳ I'm preparing for the final exam recently. I plan to pass IELTS this year（2021）
+📫 How to contact me: [hassanwong@qq.com](mailto:hassanwong@qq.com)
+
+⏳ My plan is to pass IELTS this year（2021）
