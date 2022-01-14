@@ -1,6 +1,6 @@
 ## Sup Guys 👋
 
-<img align="right" src="https://count.getloli.com/get/@:hassanblog?theme=rule34">I'm [HassanWong](https://hassanwong.top). My major is computer science👨‍💻. I was born and live in Hubei China. My hobby is singing, dancing, rap, playing basketball, shooting and editing.
+<img align="right" src="https://count.getloli.com/get/@:hassanblog?theme=rule34">I'm [HassanWong](https://hassanwong.top). My major is computer science👨‍💻. I was born and lived in Hubei China since 2000. My hobby is singing, dancing, rap, playing basketball, shooting and editing.
 
 ## About
 <img align="right" src="https://github-readme-stats-hassan.vercel.app/api?username=hassanblog&theme=cobalt&show_icons=true&count_private=true">👨‍💻 My blog: https://hassanwong.top
