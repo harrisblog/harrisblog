@@ -15,4 +15,4 @@
 
 📫 How to contact me: [hassanwong@qq.com](mailto:hassanwong@qq.com)
 
-⏳ My plan is to pass IELTS this year（2021）
+⏳ My plan is to pass IELTS before the Spring Festival（2022.01）
