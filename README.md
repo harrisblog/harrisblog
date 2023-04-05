@@ -2,7 +2,7 @@
 <img align="right" src="https://count.getloli.com/get/@:hassanblog?theme=rule34">I'm [HarrisWong](https://harriswong.top). My major is software engineering👨‍💻. I was born and raised in Hubei, China. My hobby is singing, dancing, rapping, playing basketball, filming & video editing.
 
 ## About
-<img align="right" src="https://github-readme-stats-harris.vercel.app/api?username=hassanblog&theme=cobalt&show_icons=true&count_private=true">
+<img align="right" src="https://github-readme-stats-harris.vercel.app/api?username=harrisblog&theme=cobalt&show_icons=true&count_private=true">
 
 My Portfolio: https://harriswong.top
 
