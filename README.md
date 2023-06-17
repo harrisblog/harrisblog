@@ -20,6 +20,6 @@ My CV Building Website: https://cv.harriswong.top
 
 How to contact me: [hassan89@163.com](mailto:hassan89@163.com)
 
-My latest plan is to keep learning front-end knowledge and learn my master's course well. Wish me luck!⭐
+My latest plan is to keep learning front-end knowledge and find a decent job in the UK. Wish me luck!⭐
 
-If you are a recruiter from the UK and are interested in me, please contact me.😊
+If you are a recruiter from the UK and are interested in me, don't hesitate to contact me.😊
