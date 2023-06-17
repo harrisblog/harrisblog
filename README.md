@@ -16,6 +16,8 @@ My Music Box: https://mb.harriswong.top
 
 My Gallery: https://gal.harriswong.top
 
+My CV Building Website: https://cv.harriswong.top
+
 How to contact me: [hassan89@163.com](mailto:hassan89@163.com)
 
 My latest plan is to keep learning front-end knowledge and learn my master's course well. Wish me luck!⭐
