@@ -1,7 +1,7 @@
 # 👋 Sup Guys
-<img align="right" src="https://count.getloli.com/get/@:hassanblog?theme=rule34">I'm [Shisong](https://harriswong.top) aka HarrisWong. I did my master's degree at Southampton University in software engineering👨‍💻. My projects built from the ground up experience during my academic years gave me a solid foundation in **frontend development**, especially using **JavaScript** and **React**. Additionally, with a keen eye for aesthetics, I enjoy building beautiful, friendly-to-use, engaging websites.
+<img align="right" src="https://count.getloli.com/get/@:hassanblog?theme=rule34">I'm Shisong aka [HarrisWong](https://harriswong.top). I did my master's degree at Southampton University in Software Engineering👨‍💻. My projects built from the ground up during my academic years gave me a solid foundation in **frontend development**, especially using **JavaScript** and **React**. Additionally, with a keen eye for aesthetics, I enjoy building beautiful, friendly-to-use, engaging and performant websites.
 
-On top of coding, I have hobbies like singing🎤, dancing💃🏻, rapping💽, playing basketball🏀, filming🎬, video editing✂️, working out💪 and producing music🎵, which make my life colorful🎨.
+On top of coding, I have hobbies like singing🎤, dancing💃🏻, rapping💽, playing basketball🏀, filming🎬, video editing✂️, working out💪 and producing music🎵, which make my life very colorful🎨.
 
 # 🧰 Skill Set
 
@@ -16,9 +16,9 @@ On top of coding, I have hobbies like singing🎤, dancing💃🏻, rapping💽,
 
 **Libraries & Frameworks**:
 <img align="right" alt="Jest" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
-<img align="right" alt="Vue.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 <img align="right" alt="Mongoose" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" />
-<img align="right" alt="MongoDB" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img align="right" alt="Vue.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+<img align="right" alt="Flask" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
 <img align="right" alt="Express" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
 <img align="right" alt="Node.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="right" alt="Next.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
@@ -27,6 +27,7 @@ On top of coding, I have hobbies like singing🎤, dancing💃🏻, rapping💽,
 
 **Tools & Others**:
 <img align="right" alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="right" alt="MongoDB" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 <img align="right" alt="AWS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="right" alt="Ant Design" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" />
 <img align="right" alt="MUI" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
