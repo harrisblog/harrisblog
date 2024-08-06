@@ -64,6 +64,6 @@ On top of coding, I have hobbies like singing🎤, dancing💃🏻, rapping💽,
 
 # 📧 Keep in Touch
 
-My latest plan is to keep learning web dev knowledge and find a sde related job. Wish me goood luck!💫
+My latest plan is to keep learning web dev knowledge and find a FED/SDE related job. Wish me good luck!💫
 
 If you are a recruiter and are interested in me, don't hesitate to [drop me an email](mailto:huangshisong89@gmail.com) 😊
