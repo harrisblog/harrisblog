@@ -66,4 +66,4 @@ On top of coding, I have hobbies like singing🎤, dancing💃🏻, rapping💽,
 
 My latest plan is to keep learning web dev knowledge and find a FED/SDE related job. Wish me good luck!💫
 
-If you are a recruiter and are interested in me, don't hesitate to [drop me an email](mailto:huangshisong89@gmail.com) 😊
+If you are a recruiter and is interested in me, don't hesitate to drop me an [email](mailto:huangshisong89@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/harriswong89/) 😊
